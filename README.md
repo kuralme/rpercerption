@@ -1,2 +1,2 @@
 # rpercerption
-Coursera Robotics: Perception (Penn) matlab exersises
+Coursera Robotics: Perception (Penn) matlab exercises
